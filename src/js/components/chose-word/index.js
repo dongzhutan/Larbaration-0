@@ -1,0 +1,1 @@
+import './chose-word.js'
